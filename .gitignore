@@ -1,0 +1,4 @@
+/.idea/**
+**.js
+*.iml
+/node_modules/**
