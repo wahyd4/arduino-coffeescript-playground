@@ -16,7 +16,7 @@ All the demos write with CoffeeScript
      - Click the "Upload" button.
      - If the upload was successful, the board is now prepared and you can close the Arduino IDE.
 
-  NOTICE: copied from <https://github.com/rwaldron/johnny-five/wiki/Getting-Started>
+  NOTICE: The above words copied from <https://github.com/rwaldron/johnny-five/wiki/Getting-Started>
 
  -  run commands:
   ```bash
@@ -28,6 +28,7 @@ All the demos write with CoffeeScript
  - compile the Coffeescript
 
   ```bash
-    coffee --compile *.coffee
+    coffee --compile **/*.coffee
   ```
- - run the demos, just as usual node **.js
+ - run the demos, just as usual node **.js, every demo also has a image attached
+
