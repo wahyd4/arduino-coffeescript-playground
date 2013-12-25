@@ -5,7 +5,8 @@ All the demos write with CoffeeScript
 
 ## DEMO LIST
 
- * multiple LEDs
+ * Multiple LEDs
+ * Temperature sensor(LM 35)
 
 
 ## How to run the code
@@ -30,5 +31,5 @@ All the demos write with CoffeeScript
   ```bash
     coffee --compile **/*.coffee
   ```
- - run the demos, just as usual node **.js, every demo also has a image attached
+ - run the demos, just as usual node **.js, some of the demo also has a image attached
 
