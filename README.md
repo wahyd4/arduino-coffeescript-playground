@@ -7,6 +7,7 @@ All the demos write with CoffeeScript
 
  * Multiple LEDs
  * Temperature sensor(LM 35)
+ * LCD
 
 
 ## How to run the code
