@@ -8,6 +8,8 @@ All the demos write with CoffeeScript
  * Multiple LEDs
  * Temperature sensor(LM 35)
  * LCD
+    * Simple LCD with displaying some words
+    * LCD time counter
 
 
 ## How to run the code
